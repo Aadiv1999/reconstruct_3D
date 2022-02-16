@@ -11,7 +11,7 @@ https://vision.middlebury.edu/stereo/data/scenes2014/
 
 The file **3D_Reconstruction.ipynb** consists the complete implementation of the project.
 
-The outputs are saved in .pcd file format which is then visualized using MATLAB.
+The output point clouds are saved in .pcd file format which is then visualized using MATLAB.
 
 # Outputs
 **Disparity** 
